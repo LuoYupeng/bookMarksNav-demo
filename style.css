@@ -1,5 +1,11 @@
 *{margin: 0; padding: 0;}
 a{text-decoration: none;}
+
+html{
+  height: 100%;
+  width: 100%;
+}
+
 kbd{border: 1px solid red;
     width: 4em;
     height: 4em;
@@ -19,8 +25,10 @@ kbd:hover > button {
   display: inline-block;
 }
 body{
-  background: grey ;
-  background-image: url(./bg.png)
+
+  background-image: url(./background-3594981_960_720.jpg);
+  background-repeat:no-repeat;
+  background-size:100% 100%;
 }
 main{
   text-align: center;

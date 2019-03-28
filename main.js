@@ -73,8 +73,8 @@ function init(){
 		'length': 3
   }
   var hash = {
-    'q':'qq.com','w':'weibo.com','z':'zhihu.com','g':'github.com',
-    'x':'xiedaimala.com',
+    'q':'qq.com','w':'weibo.com','z':'zhihu.com','g':'github.com','j':'jd.com',
+    'x':'xiedaimala.com','i':'iqiyi.com','f':'facebook.com','t':'taobao.com','v':'v2ex.com'
   }
   //取出localStorage中zzz对应的 hash
   var hashInLocalStorage = getFromLocalStorage('zzz')
